@@ -1,8 +1,8 @@
 [
   {
     "name": "Étoile Magique test",
-    "reference": "PF-001",
-    "manufacturer": "PyroFête",
+    "reference": "test_45",
+    "manufacturer": "Flipnote",
     "effectType": "Battery",
     "duration": "3",
     "shots": "16",
