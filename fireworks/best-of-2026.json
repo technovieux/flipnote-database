@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Étoile Magique test",
+    "reference": "PF-001",
+    "manufacturer": "PyroFête",
+    "effectType": "Battery",
+    "duration": "3",
+    "shots": "16",
+    "caliber": "20",
+    "firingPattern": "Straight",
+    "category": "Battery",
+    "colors": ["#FFD700", "#FFA500"]
+  }
+]
